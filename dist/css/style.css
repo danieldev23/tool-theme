@@ -1,0 +1,67 @@
+textarea.token_input {
+  width: 203%;
+  height: 100%;
+  padding-top: 5px;
+  display: block;
+  border-radius: 8px;
+}
+
+.box {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  display: flex;
+}
+.left {
+  margin-right: 24%;
+  margin-left: 2px;
+}
+.right {
+  margin-right: 2px;
+}
+textarea.token_input-1 {
+  width: 54%;
+  height: 70px;
+  border-radius: 8px;
+}
+.container {
+  display: flex;
+}
+
+textarea.token_input-2 {
+  width: 45rem;
+  height: 60px;
+  margin-right: 20px;
+  border-radius: 8px;
+}
+
+.content {
+  display: flex;
+}
+.content-2 {
+  margin-left: 20px;
+}
+textarea.token_input-3 {
+  margin-right: 20px;
+  width: 19rem;
+  border-radius: 8px;
+}
+
+textarea.token_input-4 {
+  width: 99%;
+  height: 7rem;
+  border-radius: 8px;
+}
+
+.box-active {
+  display: flex;
+}
+.wrong-token {
+  margin-top: -1.5rem;
+  padding-top: -3px;
+}
+textarea.token_input-5 {
+  height: 102px;
+  width: 98%;
+  border-radius: 8px;
+}
